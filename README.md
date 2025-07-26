@@ -55,5 +55,4 @@ With the power of a fine-tuned VGG16 model, the system achieves high accuracy in
    Loss and accuracy plots available in notebook
 
 # Setup Instructions:
-   git clone https://github.com/YourUsername/fruit-fresh-rotten-classifier.git
-cd fruit-fresh-rotten-classifier
+   git clone https://https://github.com/MrHasnain2522/Fruit-freshness-classifier_using_VGG16
